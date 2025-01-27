@@ -6,7 +6,7 @@ Sou estudante de **Engenharia de Controle e Automação** na **UFOP** e desenvol
 ## 🌟 Sobre Mim
 - 🔭 Atualmente, estou trabalhando em projetos Full Stack e aprendendo mais sobre boas práticas em **desenvolvimento de software**.
 - 🌱 Explorando ferramentas para automação e integração com sistemas industriais.
-- ⚡ Curiosidade: Sempre busco unir minha formação em Engenharia com a paixão por desenvolvimento de software.
+- ⚡ Sempre busco unir minha formação em Engenharia com a paixão por desenvolvimento de software.
 
 ## 🛠️ Tecnologias e Ferramentas
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white)
