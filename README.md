@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Gabriel Fiuza
+# 👋 Olá! Eu me chamo Gabriel Fiuza
 
 Bem-vindo ao meu perfil no GitHub! 🚀  
 Sou estudante de **Engenharia de Controle e Automação** na **UFOP** e desenvolvedor Full Stack formado pela **One Bit Code**.
