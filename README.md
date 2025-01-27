@@ -27,5 +27,5 @@ Sou estudante de **Engenharia de Controle e Automação** na **UFOP** e desenvol
 
 ## 🌐 Como Me Encontrar
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/Gabriel-Fiuza)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/gabriel-fiuza-136495296/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-fiuza-136495296/)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:gpaulinellifiuza@gmail.com)
