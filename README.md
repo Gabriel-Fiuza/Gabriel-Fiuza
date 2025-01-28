@@ -23,7 +23,7 @@ Sou estudante de **Engenharia de Controle e Automação** na **UFOP** e desenvol
 
 ## 🚀 Meus Projetos Destacados
 - [🔗 Gerenciamento de clientes](https://github.com/Gabriel-Fiuza/ejs-stock): Um sistema de cadastro de clientes utilizando algumas bibliotecas do **JavaScript**, **Node**, **HTML** e **CSS**.
-- [🔗 Automação com TypeScript](https://github.com/Gabriel-Fiuza/seu-projeto-automacao): Projeto integrando automação com **TypeScript** e APIs.
+- [🔗 Site responsivo](https://github.com/Gabriel-Fiuza/paulinelli): Projeto usando apenas **CSS** e **HTML**, compatível com qualquer dispositivo.
 
 ## 🌐 Como Me Encontrar
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/Gabriel-Fiuza)
